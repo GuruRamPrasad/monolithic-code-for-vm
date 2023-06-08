@@ -1,0 +1,5 @@
+[database]
+user=guru
+password=guru1234
+host=terraform-20230608095011894600000007.cnlwcnnhcrrx.ap-south-1.rds.amazonaws.com
+database=mydb
