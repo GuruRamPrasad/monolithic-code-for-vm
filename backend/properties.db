@@ -1,5 +1,5 @@
 [database]
 user=guru
 password=guru1234
-host=terraform-20230608095011894600000007.cnlwcnnhcrrx.ap-south-1.rds.amazonaws.com
+host=terraform-20230609090310474200000012.cnlwcnnhcrrx.ap-south-1.rds.amazonaws.com
 database=mydb
