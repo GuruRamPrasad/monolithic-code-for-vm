@@ -55,7 +55,7 @@ def index():
     INSERT INTO studentlist (name, roll, grade)
     VALUES (%s, %s, %s)
     """
-    values = [('leo hank', 143, 'A'), ('jon rina', 124, 'B'), ('hylu sed', 564, 'C')]  # Example values to insert
+    values = [('guru', 143, 'A'), ('ram', 124, 'B'), ('prasad', 564, 'C')]  # Example values to insert
     cursor.executemany(insert_query, values)
 
     # Commit the changes
